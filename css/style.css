@@ -12,3 +12,11 @@ body{
   font-family: sans-serif;
   padding: 2rem 10rem;
 }
+#header{
+  display:flex;
+  justify-content: space-between;
+  margin-bottom: 3rem;
+}
+#header-img{
+  width:10rem;
+}
