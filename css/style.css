@@ -37,3 +37,21 @@ body{
   margin-bottom: 3rem;
 
 }
+.heading-primary{
+  font-size:3rem;
+  text-transform:uppercase;
+  margin-bottom: 1rem;
+  color:goldenrod;
+}
+.contact input[type="text"]{
+  padding: 0.3rem 1rem;
+  font-size: 1.5rem;
+  margin-right:2rem;
+
+}
+.contact input[type="submit"]{
+  padding: 0.5rem 1rem;
+  font-size: 1.5rem;
+  background-color:goldenrod;
+  border:none; 
+}
