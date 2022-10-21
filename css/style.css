@@ -53,5 +53,29 @@ body{
   padding: 0.5rem 1rem;
   font-size: 1.5rem;
   background-color:goldenrod;
-  border:none; 
+  border:none;
+}
+.services-container{
+  display:flex;
+  margin-bottom:3rem;
+  gap:3rem;
+}
+.services-item{
+  display:flex;
+  gap:2rem;
+}
+.service-item-img{
+  width:15rem;
+}
+.service-item-img img{
+  width:100%;
+}
+
+.service-item-desc{
+
+}
+.service-item-heading{
+  margin-bottom:1rem;
+}
+.service-item-text{
 }
