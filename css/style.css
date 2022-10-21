@@ -103,3 +103,9 @@ body{
 .package-name{
 
 }
+.footer-nav{
+  display:flex;
+  justify-content:flex-end;
+  list-style:none;
+  gap:2rem;
+}
