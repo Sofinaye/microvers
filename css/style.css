@@ -20,3 +20,12 @@ body{
 #header-img{
   width:10rem;
 }
+#nav-bar{
+  list-style: none;
+  display:flex;
+  gap:2rem;
+}
+#nav-item{
+  cursor: pointer;
+  text-transform:uppercase;
+}
